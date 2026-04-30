@@ -66,7 +66,7 @@ To register for the tournament, each team must fill out the forms.
 
 The team registration will be handled by a **team representative**, who must fill in **all required fields**, otherwise the registration will be marked as **invalid**.
 
-The **registration fee is 2000€ \+ VAT per team if applied**.
+The **registration fee is 2000€ \+ VAT per team if applied**. Team registration will open May 2 at 17H30 GMT \+ 2\. 
 
 **IMPORTANT:**
 
