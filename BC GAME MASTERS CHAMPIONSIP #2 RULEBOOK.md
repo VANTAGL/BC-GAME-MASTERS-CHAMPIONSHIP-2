@@ -133,8 +133,8 @@ If two or more teams finish the group stage with the same points, the following 
 * Two groups will be played, each game BO1, round-robin.   
 * Top three teams from each group advance to the Playoffs.   
 * Group Winners go directly to the semi-finals and the other four teams go to quarter-finals.  
-* The Playoffs will be single elimination and played on BO3 format, including the game of 3/4º place.   
-* The competition will be played in 2 days.
+* The Playoffs will be double elimination and played on BO3 format.  
+* The competition will be played in 3 days.
 
 **In the case of having 13 to 14 teams.**
 
@@ -143,7 +143,7 @@ If two or more teams finish the group stage with the same points, the following 
 * The Playoffs will be double elimination and played on BO3 format.   
 * The competition will be played in 4 days.
 
-**16 teams.**
+**In the case of having 15 to 16 teams.**
 
 * Two groups will be played, each game BO1 round-robin. The four VRS best teams will be placed directly on Playoffs.  
 * Top one of each group advance to the Playoffs.  
